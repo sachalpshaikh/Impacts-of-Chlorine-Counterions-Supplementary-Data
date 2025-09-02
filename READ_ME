@@ -1,0 +1,7 @@
+Files:
+
+Case#.gjf --> Input file for Case #
+Case#.log --> Output file for Case #
+Cl_MIN_3BP --> Minimization with starting distance of 2.83 Angstroms
+Cl_MIN_3BP_483 --> Minimization with starting distance of 4.83 Angstroms
+Chlorine Paper Data.csv --> data for all 5 cases on charge, bandgap, probabilities, etc.
